@@ -1,1 +1,2 @@
-This is a test for my git hub stuffs. 
+This is a test for my git hub stuffs. I also added all these things. 
+I will need to pull from the repository to make sure things are up to date. 
